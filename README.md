@@ -64,7 +64,7 @@ LoanGuru helps you assess your creditworthiness and recommends the best loan off
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loanguru.git
+   git clone https://github.com/Apekshajawali/loanguru.git
    cd loanguru
    ```
 
