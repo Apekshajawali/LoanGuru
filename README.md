@@ -108,11 +108,6 @@ LoanGuru helps you assess your creditworthiness and recommends the best loan off
    npm start
    ```
 
----
-
-## 🎥 Project Demo
-Watch LoanGuru in action: [Demo Video](https://your-demo-link.com)
-
 
 ---
 
