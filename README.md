@@ -146,9 +146,9 @@ loanguru/
 ---
 
 ## 👨‍💻 Development Team
+- [Apeksha Jawali](https://github.com/Apekshajawali) 
 - [Gyanada](https://github.com/Gyan0706)  
-- [Aditya Singh](https://github.com/AKdevi99)  
-- [Apeksha Jawali](https://github.com/Apekshajawali)  
+- [Aditya Singh](https://github.com/AKdevi99)   
 - [Aiman Sabah](https://github.com/Shaiman-N)
 
 ---
